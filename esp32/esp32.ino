@@ -4,8 +4,8 @@
 #include <Arduino_JSON.h>
 
 // wifi variables
-const char* ssid = "HANA SUKARNO";
-const char* password = "zirly792";
+const char* ssid = ...;
+const char* password = ...;
 
 String serverName = "http://192.168.1.12:3001/api";
 
